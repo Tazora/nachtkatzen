@@ -1,0 +1,26 @@
+body {
+    background: #2D2D29;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    margin: 10% auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    resize: both;
+  }
+
+main .content, a {
+    color: #92C7A3;
+}
+
+h1, p {
+    font-family: "Courier New";
+}
+
+.links {
+    text-align: center;
+}
